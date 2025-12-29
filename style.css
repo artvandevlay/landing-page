@@ -57,6 +57,10 @@ h2{
   padding-block: 50px;
 }
 
+button{
+  cursor: pointer;
+}
+
 #info{
   background-color: #FFFFFF;
   color: #1f2937;
